@@ -1,0 +1,16 @@
+### Starting build.
+Backtrace:
+                      - Failed to build the target lexer.byte
+                          - Building lexer.byte:
+                              - Building lexer.cmo:
+                                  - Failed to build all of these:
+                                      - Building lexer.ml:
+                                          - Failed to build all of these:
+                                              - Building lexer.mly
+                                              - Building lexer.mll
+                                      - Building lexer.mli:
+                                          - Building lexer.mly
+                                      - Building lexer.mlpack
+                                      - Building lexer.mli:
+                                          - Building lexer.mly
+# Compilation unsuccessful.
